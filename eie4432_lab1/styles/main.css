@@ -22,16 +22,16 @@ nav ul{
 nav ul li{
     display: inline;
     padding: 12 16 12 16;
-
+    
 }
 nav ul li a{
     text-decoration: none;
     color: black;
-
+    
 }
 nav ul li:hover {
     background-color: blue;
-
+    
 }
 li.currentPage{
     background-color:darkred;
@@ -42,7 +42,7 @@ main{
 }
 .section-header {
     text-align: center;
-
+    
 }
 .featured-drinks {
     display: flex;
@@ -55,11 +55,11 @@ main{
 .drink{
     margin: 0 10 0 10;
     text-align: center;
-}    
+} 
 .drink img {
     height: 200px;
     width: 200px;
-}
+    }
 .footer {
     background-color: #333;
     color: #fff;
